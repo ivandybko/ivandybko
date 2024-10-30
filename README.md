@@ -6,4 +6,3 @@ You can check my CV [**here**](https://ivandybko.github.io/CV/Ivan_Dybko_CV_Engl
 
 Contact me on Telegram [**@ivandybko**](https://t.me/ivandybko) or write me an email on [**ivan.e.dybko@gmail.com**](mailto:ivandybfk12@gmail.com).
 
-[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=ivandybko&pie=false)](https://github.com/evirunurm/github-stats)
